@@ -67,7 +67,7 @@ section{
 
 .heading span{
     font-size: 3rem;
-    pad: 5rem 2rem;
+    padding: 5rem 2rem;
     color: var(--black);
     background: #fff;
 }
@@ -157,11 +157,6 @@ section{
 
 .header .header-2{
     background: var(--green);
-    /* position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 0; */
 }
 
 .header .header-2 .navbar{
@@ -555,7 +550,6 @@ body{
 
 .blogs .blogs-slider .box{
     margin: 2rem 0;
-    /* width: 30rem; */
     border: var(--border);
 }
 
